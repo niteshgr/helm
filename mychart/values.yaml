@@ -1,5 +1,5 @@
 image: nginx
 imageVersion: latest
-replicaCount: 2
+replicaCount: 1
 port: 80
 nodePort: 32737
