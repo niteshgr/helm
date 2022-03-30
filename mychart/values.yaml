@@ -2,4 +2,4 @@ image: nginx
 imageVersion: latest
 replicaCount: 1
 port: 80
-type: NodePort
+nodePort: 32737
